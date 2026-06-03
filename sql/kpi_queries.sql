@@ -1,0 +1,5 @@
+-- Requests by borough
+-- Avg resolution time
+-- Open vs closed ratio
+-- Top 5 complaint types
+-- Daily request trends
